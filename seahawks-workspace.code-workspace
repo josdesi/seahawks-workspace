@@ -23,7 +23,12 @@
 		{
 			"name": "seahawks-ms-main",
 			"path": "../seahawks-ms-main"
+		},
+		{
+			"path": "../seahawks-docs-architecture"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "seahawks-web-main"
+	}
 }
