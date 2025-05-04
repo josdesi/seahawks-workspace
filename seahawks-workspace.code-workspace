@@ -1,7 +1,28 @@
 {
 	"folders": [
 		{
+			"name": "seahawks-workspace",
 			"path": "."
+		},
+		{
+			"name": "seahawks-web-login",
+			"path": "../seahawks-web-login"
+		},
+		{
+			"name": "seahawks-web-main",
+			"path": "../seahawks-web-main"
+		},
+		{
+			"name": "_",
+			"path": "../_"
+		},
+		{
+			"name": "seahawks-ms-auth",
+			"path": "../seahawks-ms-auth"
+		},
+		{
+			"name": "seahawks-ms-main",
+			"path": "../seahawks-ms-main"
 		}
 	],
 	"settings": {}
