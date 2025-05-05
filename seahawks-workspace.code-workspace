@@ -25,10 +25,16 @@
 			"path": "../seahawks-ms-main"
 		},
 		{
-			"path": "../seahawks-docs-architecture"
+			"name": "seahawks-lambda-warmp-up",
+			"path": "../seahawks-lambda-warmp-up"
 		},
 		{
-			"path": "../seahawks-lambda-warmp-up"
+			"name": "-",
+			"path": "../-"
+		},
+		{
+			"name": "seahawks-docs-architecture",
+			"path": "../seahawks-docs-architecture"
 		}
 	],
 	"settings": {
