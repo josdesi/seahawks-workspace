@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "../seahawks-docs-architecture"
+		},
+		{
+			"path": "../seahawks-lambda-warmp-up"
 		}
 	],
 	"settings": {
